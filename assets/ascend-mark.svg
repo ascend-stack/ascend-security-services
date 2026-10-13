@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 460"><defs id="defs52"><filter id="orbit-polish-glow" x="-35%" y="-100%" width="170%" height="300%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="5" result="halo" /><feComponentTransfer in="halo" result="soft"><feFuncA type="linear" slope=".55" /></feComponentTransfer><feMerge><feMergeNode in="soft" /><feMergeNode in="SourceGraphic" /></feMerge></filter></defs>
+  <g id="g42">
+    <defs id="defs24">
+      <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0.7"><stop offset="0" stop-color="#ECF6FF" /><stop offset=".23" stop-color="#9FBCE0" /><stop offset=".38" stop-color="#FFFFFF" /><stop offset=".405" stop-color="#345E90" /><stop offset=".62" stop-color="#9BCAFF" /><stop offset=".76" stop-color="#29598D" /><stop offset="1" stop-color="#D2E8FF" /></linearGradient><linearGradient id="gold" x1="0" y1="1" x2="1" y2="0">
+        <stop stop-color="#C5CDD5" id="stop15" style="stop-color:#C5CDD5;stop-opacity:1" />
+        <stop offset=".45" stop-color="#FFFFFF" id="stop17" style="stop-color:#FFFFFF;stop-opacity:1" />
+        <stop offset=".65" stop-color="#D6DEE6" id="stop19" style="stop-color:#D6DEE6;stop-opacity:1" />
+        <stop offset="1" stop-color="#B5C1CC" id="stop21" style="stop-color:#B5C1CC;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M 112,286 C 70,247 306,160 394,197" fill="none" stroke="url(#gold)" stroke-width="6" id="path26" filter="url(#orbit-polish-glow)" />
+    <path d="M 250,40 65,390 131,375 250,132 369,375 435,390 Z" fill="url(#silver)" id="path28" />
+    <path d="M 250,40 V 87 L 94,373 65,390 Z" fill="#759FCF" id="path30" />
+    <path d="M 250,87 435,390 397,369 250,132 Z" fill="#142D49" id="path32" />
+    <path d="m 164,272 h 169 l 17,34 H 148 Z" fill="url(#silver)" id="path34" />
+    <path d="m 241,218 19,8 v 176 l -19,13 z" fill="url(#silver)" id="path36" />
+    <path d="m 241,218 19,8 v 176 l -7,-5 V 232 Z" fill="#659BDB" id="path38" />
+    <path d="m 394,197 c 29,12 -185,94 -282,89 -24,-1 -22,-16 1,-35" fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" id="path40" filter="url(#orbit-polish-glow)" />
+  <g id="ascend-polish" pointer-events="none"><path d="M250 42 L67 388 M251 88 L433 388 M242 219 L242 412" fill="none" stroke="#FFFFFF" stroke-opacity=".65" stroke-width="1.2" /><path d="M175 165 Q184 163.6 184 156 Q185.4 165 193 165 Q184 166.4 184 174 Q182.6 165 175 165 Z" fill="#FFFFFF" fill-opacity=".92" /><path d="M326 231 Q334 229.6 334 223 Q335.4 231 342 231 Q334 232.4 334 239 Q332.6 231 326 231 Z" fill="#FFFFFF" fill-opacity=".92" /></g></g>
+  </svg>
