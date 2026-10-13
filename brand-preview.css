@@ -4,3 +4,5 @@
 
 /* Textured metallic display emblems */
 .brand{display:flex;align-items:center;gap:12px;min-width:245px}.brand img{width:70px;height:70px;object-fit:contain;filter:none}.brand-name{display:block;color:#e1e5e9;font-size:24px;font-weight:400;letter-spacing:6px;line-height:1.1}.brand-entity{display:block;color:#bdc8d1;font-size:8px;letter-spacing:2.7px;margin-top:8px;white-space:nowrap}.intro-mark img,.portfolio-card img{filter:none;object-fit:contain}.flavor .brand-name,.flavor .brand-entity{color:#e4c7a1}@media(max-width:1050px){.brand{min-width:220px}.brand img{width:58px;height:58px}.brand-name{font-size:21px;letter-spacing:5px}.brand-entity{font-size:7px;letter-spacing:2.2px}}
+
+.career-card{border-top:1px solid rgba(150,175,200,.25);padding:1.5rem 0}.career-card h3{margin:0 0 .6rem}.career-card .button{margin-top:.5rem}#apply{scroll-margin-top:110px}
